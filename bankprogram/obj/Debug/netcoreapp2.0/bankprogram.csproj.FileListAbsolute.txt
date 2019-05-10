@@ -1,0 +1,11 @@
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\bin\Debug\netcoreapp2.0\bankprogram.deps.json
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\bin\Debug\netcoreapp2.0\bankprogram.runtimeconfig.json
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\bin\Debug\netcoreapp2.0\bankprogram.runtimeconfig.dev.json
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\bin\Debug\netcoreapp2.0\bankprogram.dll
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\bin\Debug\netcoreapp2.0\bankprogram.pdb
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\obj\Debug\netcoreapp2.0\bankprogram.csprojAssemblyReference.cache
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\obj\Debug\netcoreapp2.0\bankprogram.csproj.CoreCompileInputs.cache
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\obj\Debug\netcoreapp2.0\bankprogram.AssemblyInfoInputs.cache
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\obj\Debug\netcoreapp2.0\bankprogram.AssemblyInfo.cs
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\obj\Debug\netcoreapp2.0\bankprogram.dll
+C:\Users\ocben\Uni\SIT232\archive\bankprogram\obj\Debug\netcoreapp2.0\bankprogram.pdb
